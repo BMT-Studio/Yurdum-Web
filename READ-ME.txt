@@ -1,11 +1,24 @@
-  =>  Template Name    : FitApp - Mobile App HTML Template
+Yurdum Uygulaması
+Yurdum, yurtlarda kalan öğrenciler için kapsamlı bir iletişim ve etkileşim platformu sunmayı amaçlayan bir mobil uygulamadır. Öğrenciler, yurt transferinden eşya satışına, duyuru sisteminden KYK yurt özelliklerine kadar pek çok fonksiyonla ihtiyaçlarını karşılayabilecekler. Bu proje, öğrencilerin sosyal ve pratik gereksinimlerine yönelik bir çözüm olarak geliştirilmiştir.
 
-  =>  Template Link    : https://htmlcodex.com/mobile-app-html-template
+Özellikler
+Yurdum uygulaması, öğrencilerin yurt yaşamını kolaylaştıran aşağıdaki ana özellikleri içerir:
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Öğrenciler Arası Transfer Ağı:
 
-  =>  Template Author  : HTML Codex
+Öğrencilerin, yurtlar arasında transfer yapmalarını sağlayan bir sistem. Kullanıcılar, istedikleri KYK yurtlarına geçiş yapma fırsatına sahip olurlar.
+KYK Yurt Özellikleri:
 
-  =>  Author Website   : https://htmlcodex.com
+KYK yurtlarının detaylı özelliklerine erişim imkanı. Öğrenciler, yurtların sunduğu olanakları ve sosyal hizmetleri inceleyebilirler.
+Popüler Yerler:
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+KYK yurtlarının çevresindeki popüler mekanlar, restoranlar, kafeler ve sosyal alanlar hakkında bilgi sağlayan bir bölüm.
+Ev Arkadaşı Bulma Ağı:
+
+Öğrenciler, yurt içinde ya da dışarıda kendilerine uygun ev arkadaşlarını bu ağ aracılığıyla bulabilirler.
+Eşya Satış Ağı:
+
+İkinci el eşya alışverişi yapmayı kolaylaştıran bu platformda, öğrenciler arası eşya alım satımı güvenli bir şekilde yapılabilir.
+Yurt Duyuru Sistemi:
+
+Yurt yönetimlerinden gelen önemli duyuruları ve etkinlik bilgilerini tek bir yerde görüntüleyerek yurt yaşamını daha organize hale getirme imkanı.
